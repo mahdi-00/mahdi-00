@@ -6,5 +6,5 @@
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/mahdiijafari/)
 
 - 🏢 Developer
-- 🧰 I build with: `TypeScript`, `Next.js`, `Node.js`, ...
+- 🧰 I build with: `TypeScript`, `Next.js`, `Three.js`, `Node.js`,...
 - 📫 Reach out to me: hi.mahdii13@gmail.com
